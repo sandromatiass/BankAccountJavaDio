@@ -1,18 +1,35 @@
-## Getting Started
+# Exercício ContaBanco - DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um exercício simples de programação em Java realizado como parte do curso da DIO (Digital Innovation One). O projeto `ContaBanco` permite que o usuário insira informações de uma conta bancária via terminal e, em seguida, exibe uma mensagem com os detalhes da conta.
 
-## Folder Structure
+## Requisitos
 
-The workspace contains two folders by default, where:
+- JDK (Java Development Kit) instalado no seu sistema.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como Executar
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Clone este repositório para o seu ambiente local:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+   git clone https://github.com/sandromatiass/BankAccountJavaDio.git
 
-## Dependency Management
+2. Navegue até o diretório do projeto:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+    cd BankAccount
+
+3. Compile o código Java:
+
+    `java BankAccount`
+
+4. Execute o programa:
+
+5. Siga as instruções fornecidas no terminal para inserir os dados da conta bancária.
+
+6. Após inserir todas as informações solicitadas, o programa exibirá uma mensagem com os detalhes da conta.
+
+## Contribuição
+
+Este é um exercício simples e não requer contribuições adicionais. No entanto, se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue neste repositório.
+
+## Licença
+
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
